@@ -12,8 +12,8 @@
 [<img src="https://img.shields.io/badge/mongodb-%2315733D.svg?logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
 [<img src="https://img.shields.io/badge/redis-%23DC382D.svg?logo=redis&logoColor=white" />](https://redis.io/)
 [<img src="https://img.shields.io/badge/jda-%23DC733D.svg?logo=redis&logoColor=white" />](https://github.com/DV8FromTheWorld/JDA)
-[<img src="https://img.shields.io/badge/jda-%23DC733D.svg?logo=spigot&logoColor=white" />](https://www.spigotmc.org/)
-[<img src="https://img.shields.io/badge/jda-%23DC733D.svg?logo=bungeecord&logoColor=white" />](https://www.spigotmc.org/wiki/bungeecord/)
+[<img src="https://img.shields.io/badge/spigot-%23DC733D.svg?logo=mojang&logoColor=white" />](https://www.spigotmc.org/)
+[<img src="https://img.shields.io/badge/bungeecord-%23DC733D.svg?logo=mojang&logoColor=white" />](https://www.spigotmc.org/wiki/bungeecord/)
 
 ### 📈 GitHub Stats
 <div align="center">
