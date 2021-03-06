@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/ptk%238135-%237289DA.svg?&logo=discord&logoColor=white" />](https://discord.com/)
 
 ### ⚙️ Working with:
-[<img src="https://img.shields.io/badge/java%20-%23007396.svg?logo=java&logoColor=white" />](https://discord.com/)
+[<img src="https://img.shields.io/badge/java%20-%23007396.svg?logo=java&logoColor=white" />](https://www.java.com/pl/)
 [<img src="https://img.shields.io/badge/intellij_idea%20-%23007396.svg?logo=intellij-idea&logoColor=white" />](https://www.jetbrains.com/idea/)
 [<img src="https://img.shields.io/badge/mysql-%2315733D.svg?logo=mysql&logoColor=white" />](https://www.mysql.com/)
 [<img src="https://img.shields.io/badge/postgresql-%2315733D.svg?logo=postgresql&logoColor=white" />](https://www.postgresql.org/)
