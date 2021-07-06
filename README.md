@@ -1,5 +1,5 @@
 ### 👋 Hi there
-💬 I write Discord / Teamspeak bots on orders, to more info DM to me in discord <b>ptk#8135</b>
+💬 I write Discord / Teamspeak bots on orders, to more info DM to me in discord <b>ptk#1337</b>
 
 ### 📧 Contact
 [<img src="https://img.shields.io/badge/ptk%238135-%237289DA.svg?&logo=discord&logoColor=white" />](https://discord.com/)
